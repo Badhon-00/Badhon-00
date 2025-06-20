@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=30&duration=4000&pause=1000&color=009966&width=550&lines=Assalamu+Alaikum+Warahmatullah;Full+Stack+Developer;From+Bangladesh" alt="Typing Animation" />
 </div>
 
-<!-- Profile Section with NTK Hang Profile Link -->
+<!-- Profile Section -->
 <div class="profile-section">
   <div class="profile-container">
     <div class="profile-card">
@@ -22,43 +22,37 @@
           <span class="badge location">📍 Narayanganj, Dhaka</span>
           <span class="badge age">🎂 Age 20</span>
           <a href="https://ntkhang.com/profile/badhon" target="_blank" class="badge ntk">
-            <i class="fas fa-user-circle"></i> NTK Hang Profile
+            <i class="fas fa-user-circle"></i> NTK Hang
           </a>
         </div>
       </div>
     </div>
     
-    <!-- Contact Buttons with Improved Icons -->
+    <!-- Improved Contact Buttons -->
     <div class="contact-buttons">
-      <a href="https://www.facebook.com/badhon.exist" target="_blank" class="contact-btn fb">
-        <i class="fab fa-facebook-square"></i>
-        <span>Facebook</span>
+      <a href="https://www.facebook.com/badhon.exist" target="_blank" class="contact-btn">
+        <i class="fab fa-facebook-f"></i> Facebook
       </a>
-      <a href="https://www.instagram.com/scyl4_sm0k3/#" target="_blank" class="contact-btn ig">
-        <i class="fab fa-instagram"></i>
-        <span>Instagram</span>
+      <a href="https://www.instagram.com/scyl4_sm0k3/#" target="_blank" class="contact-btn">
+        <i class="fab fa-instagram"></i> Instagram
       </a>
-      <a href="https://replit.com/@badhonrohman946" target="_blank" class="contact-btn replit">
-        <i class="fas fa-laptop-code"></i>
-        <span>Replit</span>
+      <a href="https://replit.com/@badhonrohman946" target="_blank" class="contact-btn">
+        <i class="fas fa-code"></i> Replit
       </a>
-      <a href="mailto:smokeyyybadhon1@gmail.com" class="contact-btn email">
-        <i class="fas fa-envelope"></i>
-        <span>Email</span>
+      <a href="mailto:smokeyyybadhon1@gmail.com" class="contact-btn">
+        <i class="fas fa-envelope"></i> Email
       </a>
-      <a href="https://wa.me/8801533048946" target="_blank" class="contact-btn wa">
-        <i class="fab fa-whatsapp"></i>
-        <span>WhatsApp</span>
+      <a href="https://wa.me/8801533048946" target="_blank" class="contact-btn">
+        <i class="fab fa-whatsapp"></i> WhatsApp
       </a>
-      <a href="t.me/badhon_6t9_x" target="_blank" class="contact-btn tg">
-        <i class="fab fa-telegram"></i>
-        <span>Telegram</span>
+      <a href="t.me/badhon_6t9_x" target="_blank" class="contact-btn">
+        <i class="fab fa-telegram"></i> Telegram
       </a>
     </div>
   </div>
 </div>
 
-<!-- Tech Stack Section with Skill Bars -->
+<!-- Tech Stack Section -->
 <div class="skills-section">
   <h2 class="section-title">
     <i class="fas fa-laptop-code"></i> Tech Stack
@@ -69,6 +63,7 @@
     <div class="skill-bars">
       <div class="skill-bar">
         <div class="skill-info">
+          <i class="fab fa-js-square"></i>
           <span>JavaScript</span>
           <span>85%</span>
         </div>
@@ -78,6 +73,7 @@
       </div>
       <div class="skill-bar">
         <div class="skill-info">
+          <i class="fab fa-node-js"></i>
           <span>Node.js</span>
           <span>75%</span>
         </div>
@@ -87,6 +83,7 @@
       </div>
       <div class="skill-bar">
         <div class="skill-info">
+          <i class="fab fa-html5"></i>
           <span>HTML5</span>
           <span>90%</span>
         </div>
@@ -96,6 +93,7 @@
       </div>
       <div class="skill-bar">
         <div class="skill-info">
+          <i class="fab fa-css3-alt"></i>
           <span>CSS3</span>
           <span>80%</span>
         </div>
@@ -105,6 +103,7 @@
       </div>
       <div class="skill-bar">
         <div class="skill-info">
+          <i class="fab fa-bootstrap"></i>
           <span>Bootstrap</span>
           <span>70%</span>
         </div>
@@ -138,7 +137,7 @@
   </div>
 </div>
 
-<!-- Projects Section with Cards -->
+<!-- Projects Section -->
 <div class="projects-section">
   <h2 class="section-title">
     <i class="fas fa-rocket"></i> Featured Projects
@@ -147,6 +146,7 @@
   <div class="project-cards">
     <div class="project-card">
       <div class="project-header">
+        <i class="fas fa-robot"></i>
         <h3>GOATBOT-V2/AYANESAN</h3>
         <div class="project-badge">New</div>
       </div>
@@ -155,20 +155,17 @@
         <a href="https://github.com/Badhon512-34/Ayane-san" target="_blank" class="project-link">
           <i class="fas fa-external-link-alt"></i> View Project
         </a>
-        <div class="project-stats">
-          <span><i class="fas fa-star"></i> 120</span>
-          <span><i class="fas fa-code-branch"></i> 45</span>
-        </div>
       </div>
       <div class="project-tech">
-        <span>JavaScript</span>
-        <span>Node.js</span>
-        <span>API</span>
+        <span><i class="fab fa-js"></i> JavaScript</span>
+        <span><i class="fab fa-node"></i> Node.js</span>
+        <span><i class="fas fa-project-diagram"></i> API</span>
       </div>
     </div>
     
     <div class="project-card">
       <div class="project-header">
+        <i class="fas fa-server"></i>
         <h3>BADHON API V1</h3>
         <div class="project-badge">Popular</div>
       </div>
@@ -177,21 +174,17 @@
         <a href="https://my-html-badhon-api-kjzm.vercel.app" target="_blank" class="project-link">
           <i class="fas fa-external-link-alt"></i> View Project
         </a>
-        <div class="project-stats">
-          <span><i class="fas fa-star"></i> 85</span>
-          <span><i class="fas fa-code-branch"></i> 30</span>
-        </div>
       </div>
       <div class="project-tech">
-        <span>HTML</span>
-        <span>CSS</span>
-        <span>JavaScript</span>
+        <span><i class="fab fa-html5"></i> HTML</span>
+        <span><i class="fab fa-css3"></i> CSS</span>
+        <span><i class="fab fa-js"></i> JavaScript</span>
       </div>
     </div>
   </div>
 </div>
 
-<!-- GitHub Stats with More Metrics -->
+<!-- GitHub Stats (Unchanged as requested) -->
 <div class="github-stats">
   <h2 class="section-title">
     <i class="fas fa-chart-line"></i> GitHub Analytics
@@ -241,7 +234,6 @@
   
   /* Font Awesome */
   .fas, .fab {
-    font-size: 1.1em;
     margin-right: 8px;
   }
   
@@ -394,33 +386,18 @@
     transition: var(--transition);
     position: relative;
     overflow: hidden;
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
   }
   
-  .contact-btn span {
-    margin-left: 5px;
+  .contact-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
   }
   
-  .contact-btn::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-    transition: 0.6s;
+  .contact-btn i {
+    font-size: 1.2rem;
   }
-  
-  .contact-btn:hover::before {
-    left: 100%;
-  }
-  
-  .fb { background: #3b5998; }
-  .ig { background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); }
-  .replit { background: #667881; }
-  .email { background: #d44638; }
-  .wa { background: #25d366; }
-  .tg { background: #0088cc; }
   
   /* Skills Section */
   .skills-section {
@@ -471,8 +448,15 @@
   .skill-info {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 0.5rem;
     color: var(--light);
+  }
+  
+  .skill-info i {
+    font-size: 1.2rem;
+    width: 20px;
+    text-align: center;
   }
   
   .progress-bar {
@@ -486,7 +470,6 @@
     height: 100%;
     border-radius: 4px;
     position: relative;
-    transition: width 1.5s ease;
   }
   
   .progress::after {
@@ -569,8 +552,8 @@
   
   .project-header {
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    gap: 0.8rem;
     margin-bottom: 1rem;
   }
   
@@ -578,6 +561,12 @@
     color: var(--light);
     margin: 0;
     font-size: 1.3rem;
+    flex-grow: 1;
+  }
+  
+  .project-header i {
+    font-size: 1.5rem;
+    color: var(--primary);
   }
   
   .project-badge {
@@ -586,9 +575,6 @@
     font-size: 0.8rem;
     font-weight: bold;
     color: white;
-  }
-  
-  .project-badge {
     background: var(--accent);
   }
   
@@ -618,13 +604,6 @@
     color: var(--light);
   }
   
-  .project-stats {
-    display: flex;
-    gap: 1rem;
-    color: rgba(255, 255, 255, 0.6);
-    font-size: 0.9rem;
-  }
-  
   .project-tech {
     display: flex;
     flex-wrap: wrap;
@@ -638,9 +617,12 @@
     padding: 0.3rem 0.8rem;
     border-radius: 20px;
     font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
   }
   
-  /* GitHub Stats */
+  /* GitHub Stats (Unchanged) */
   .github-stats {
     max-width: 1000px;
     margin: 3rem auto;
