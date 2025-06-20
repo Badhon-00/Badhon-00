@@ -1,7 +1,7 @@
 ## # 🕌 Badhon Rohman Shanto | Muslim Developer from Bangladesh
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=30&duration=4000&pause=1000&color=009966&width=550&lines=Assalamu+Alaikum+Warahmatullah;Full+Stack+Developer;Quran+Learner;From+Bangladesh" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=30&duration=4000&pause=1000&color=009966&width=550&lines=Assalamu+Alaikum+Warahmatullah;Full+Stack+Developer;From+Bangladesh" alt="Typing Animation" />
 </div>
 
 <!-- 3D Profile Card -->
