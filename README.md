@@ -19,7 +19,7 @@
   <p>
     <img src="https://img.icons8.com/fluency/24/20C20E/marker.png" alt="location" width="18"/> Narayanganj, Dhaka, Bangladesh |
     <img src="https://img.icons8.com/fluency/24/20C20E/calendar.png" alt="age" width="18"/> Age 20 |
-    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion"width="18"/> Muslim
+    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" width="20"/> Muslim
   </p>
   
   <div>
