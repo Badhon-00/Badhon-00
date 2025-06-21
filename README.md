@@ -18,7 +18,11 @@
 <div align="center">
   <img src="https://i.imgur.com/vMbH9SK.jpeg" alt="Badhon Rohman Shanto" width="200" style="border-radius: 50%; border: 3px solid #20C20E; box-shadow: 0 0 25px rgba(32, 194, 14, 0.5);" />
   
-  <h2>Badhon Rohman Shanto</h2>
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+  &nbsp;BADHON ROHMAN SHANTO&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+</h3>
   
   <p>
     <img src="https://img.icons8.com/fluency/24/20C20E/marker.png" alt="location" width="18"/> Narayanganj, Dhaka, Bangladesh |
@@ -26,11 +30,7 @@
     <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" width="20"/> Muslim
   </p>
 
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
-  &nbsp;MOHAMMAD ALAMIN&nbsp;
-  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
-</h3>
+
   
   <div>
     <a href="https://www.facebook.com/badhon.exist" target="_blank">
