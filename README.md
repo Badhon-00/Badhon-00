@@ -2,6 +2,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&width=550&lines=Assalamu+Alaikum+Warahmatullah;Full+Stack+Developer;Open+Source+Contributor;From+Bangladesh" alt="Typing Animation" />
+
+  <div align="center">
+  <img src="https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%" style="max-width: 600px;" />
+</div>
   
   <!-- Real-time Bangladesh Clock -->
   <div id="bangladesh-clock" style="margin: 20px 0; font-size: 18px; color: #20C20E; font-family: 'Fira Code', monospace;">
