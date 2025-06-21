@@ -5,7 +5,7 @@
   
   <!-- Real-time Bangladesh Clock -->
   <div id="bangladesh-clock" style="margin: 20px 0; font-size: 18px; color: #20C20E; font-family: 'Fira Code', monospace;">
-    <span id="time"></span> (Asia/Dhaka)
+    <span id="time"></span> 
   </div>
 </div>
 
@@ -19,7 +19,7 @@
   <p>
     <img src="https://img.icons8.com/fluency/24/20C20E/marker.png" alt="location" width="18"/> Narayanganj, Dhaka, Bangladesh |
     <img src="https://img.icons8.com/fluency/24/20C20E/calendar.png" alt="age" width="18"/> Age 20 |
-    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" width="18"/> Muslim
+    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" "🕋" width="18"/> Muslim
   </p>
   
   <div>
