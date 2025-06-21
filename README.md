@@ -25,6 +25,12 @@
     <img src="https://img.icons8.com/fluency/24/20C20E/calendar.png" alt="age" width="18"/> Age 20 |
     <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" width="20"/> Muslim
   </p>
+
+<h3 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+  &nbsp;MOHAMMAD ALAMIN&nbsp;
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+</h3>
   
   <div>
     <a href="https://www.facebook.com/badhon.exist" target="_blank">
