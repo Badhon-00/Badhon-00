@@ -1,4 +1,4 @@
-# 🕌 Badhon Rohman Shanto | Muslim Developer from Bangladesh
+# 🕌 Badhon Rohman Shanto |Im Muslim Developer Im The noobest Programer/Cooder from Bangladesh
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=30&duration=4000&pause=1000&color=009966&width=550&lines=Assalamu+Alaikum+Warahmatullah;Full+Stack+Developer;From+Bangladesh" alt="Typing Animation" />
