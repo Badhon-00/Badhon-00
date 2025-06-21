@@ -12,14 +12,14 @@
 ## 🌟 Profile Overview
 
 <div align="center">
-  <img src="https://i.imgur.com/vMbH9SK.jpeg" alt="Badhon Rohman Shanto" width="200" style="border-radius: 50%; border: 3px solid #20C20E; box-shadow: 0 0 20px rgba(32, 194, 14, 0.5);" />
+  <img src="https://i.imgur.com/vMbH9SK.jpeg" alt="Badhon Rohman Shanto" width="200" style="border-radius: 50%; border: 3px solid #20C20E; box-shadow: 0 0 25px rgba(32, 194, 14, 0.5);" />
   
   <h2>Badhon Rohman Shanto</h2>
   
   <p>
     <img src="https://img.icons8.com/fluency/24/20C20E/marker.png" alt="location" width="18"/> Narayanganj, Dhaka, Bangladesh |
     <img src="https://img.icons8.com/fluency/24/20C20E/calendar.png" alt="age" width="18"/> Age 20 |
-    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion" "🕋" width="18"/> Muslim
+    <img src="https://img.icons8.com/color/24/20C20E/islam.png" alt="religion"width="18"/> Muslim
   </p>
   
   <div>
