@@ -70,7 +70,7 @@
 ### 🤖 GOATBOT-V2/AYANESAN
 Advanced chatbot project with natural language processing capabilities  
 🔹 **Technologies**: JavaScript, Node.js  
-🔹 [GitHub Repository](https://github.com/Badhon512-34/Ayane-san)
+🔹 [GitHub Repository](https://github.com/Badhon-00/Ayane-san)
 
 ### 🌐 BADHON API V1
 Personal API project with various endpoints for development  
