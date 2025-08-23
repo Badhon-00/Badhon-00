@@ -80,8 +80,8 @@ Personal API project with various endpoints for development
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badhon512-34&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon512-34&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E" alt="Top Languages" width="48%"/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon-00&theme=dark&border=20C20E&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" alt="GitHub Streak" width="100%"/>
   
