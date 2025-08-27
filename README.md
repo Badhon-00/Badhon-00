@@ -67,7 +67,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 GOATBOT-V2/AYANESAN
+### 🤖 MELISSA-BOT-V3
 Advanced chatbot project with natural language processing capabilities  
 🔹 **Technologies**: JavaScript, Node.js  
 🔹 [GitHub Repository](https://github.com/Badhon-00/Ayane-san)
