@@ -12,11 +12,6 @@
   </div>
 </div>
 
-## 👋 Introduction
-
-**Assalamu Alaikum!** I'm Badhon Rohman Shanto, a passionate Muslim developer from Bangladesh. I specialize in building modern web applications with a focus on clean code and user-friendly interfaces. As a developer, I believe in continuous learning and strive to contribute to the tech community while staying true to my Islamic values.
-
----
 
 ## 🌟 Profile Overview
 
@@ -38,7 +33,11 @@
   <p style="font-size: 16px; color: #20C20E; margin: 10px 0;">
     <i>"Striving to become a better developer and Muslim every day"</i>
   </p>
+## 👋 Introduction
 
+**Assalamu Alaikum!** I'm Badhon Rohman Shanto, a passionate Muslim developer from Bangladesh. I specialize in building modern web applications with a focus on clean code and user-friendly interfaces. As a developer, I believe in continuous learning and strive to contribute to the tech community while staying true to my Islamic values.
+
+---
   ## 🌐 Connect With Me
   
   <div style="margin: 20px 0;">
@@ -101,7 +100,7 @@
   
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/Badhon-00">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="Badhon's GitHub Activity Graph" width="100%" />
+    <img src="https://github.com/Badhon-00-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="Badhon's GitHub Activity Graph" width="100%" />
   </a>
 </div>
 
@@ -119,9 +118,6 @@
     <img src="https://count.getloli.com/get/@Badhon-00?theme=moebooru" alt="Visitor Counter" />
   </p>
   
-  <h4>🌐 Real-time Counter</h4>
-  <p>
-    <img src="https://profile-counter.glitch.me/Badhon-00/count.svg" alt="Real-time Counter" />
   </p>
 </div>
 
