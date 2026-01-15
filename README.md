@@ -61,7 +61,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&bg
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Badhon-00&color=20C20E&style=for-the-badge"/>
 </div>
-
+<h4 align="center">Visitor's Count :</h4>
+<p align="center"><img src="https://count.getloli.com/get/@Badhon-00-github-readme?theme=rule34" /></p>
+<p align="center">
 ---
 
 ## 🚀 Featured Projects
