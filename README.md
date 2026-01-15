@@ -62,7 +62,7 @@
   </div>
 </div>
 
-  ### Connect with me:
+  ### Connect with me
   
   <p>
     
@@ -92,19 +92,7 @@
     </a>
   </p>
 
-<!-- Quote -->
-<div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 20px; border-radius: 15px; 
-            border-left: 5px solid #20C20E; max-width: 650px; margin: 20px auto; position: relative;">
-  <div style="position: absolute; top: -15px; left: 20px; background: #0d1117; padding: 0 15px; color: #20C20E; font-weight: bold;">
-    <img src="https://img.icons8.com/color/18/20C20E/quote.png" style="vertical-align: middle; margin-right: 5px;" />
-    Philosophy
-  </div>
-  <p style="margin: 20px 0 0 0; font-style: italic; color: #ccc; font-size: 16px; line-height: 1.6;">
-    "In the name of Allah, the Most Gracious, the Most Merciful. I strive to write clean code 
-    that not only functions well but also brings benefit to others. As a Muslim developer, 
-    I believe technology should serve humanity and reflect ethical principles."
-  </p>
-</div>
+
 
 </div>
 
@@ -173,8 +161,6 @@
 
 ---
 
-## 📊 Visitor Counter & Islamic Reminder
-
 <div align="center" style="margin: 40px 0;">
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; max-width: 900px; margin: 0 auto;">
@@ -192,6 +178,8 @@
     Thank you for visiting! May Allah bless you.
   </p>
 </div>
+
+
   <img src="https://img.shields.io/github/followers/Badhon-00?style=social" alt="GitHub Followers" />
 </p>
 <!-- Islamic Reminder -->
@@ -315,19 +303,10 @@
     Last Updated
   </div>
   <div style="color: #fff; font-family: 'Fira Code', monospace;" id="last-updated">
-    Loading...
-  </div>
 </div>
 
-<!-- View Counter -->
-<div style="text-align: center;">
-  <div style="font-size: 18px; color: #20C20E; font-weight: bold; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/eye.png" style="vertical-align: middle; margin-right: 8px;" />
-    
 
-</div>
 
-<!-- Final Message -->
 <p style="color: #aaa; font-size: 14px; max-width: 600px; margin: 20px auto; line-height: 1.6;">
   <img src="https://img.icons8.com/color/16/20C20E/star--v1.png" style="vertical-align: middle; margin-right: 5px;" />
   Thank you for visiting my profile! I'm always open to interesting collaborations and meaningful discussions about technology and faith.
