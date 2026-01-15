@@ -137,73 +137,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
-
-<!-- Stats Card -->
-<div style="background: rgba(32, 194, 14, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2);">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/statistics.png" />
-    GitHub Statistics
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=fff&icon_color=20C20E&include_all_commits=true" 
-       alt="Badhon's GitHub Stats" style="border-radius: 10px; width: 100%;" />
-</div>
-
-<!-- Streak Stats -->
-<div style="background: rgba(32, 194, 14, 0.05); padding: 20px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2);">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/fire.png" />
-    Contribution Streak
-  </h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon-00&theme=dark&hide_border=true&background=0d1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=fff&sideNums=fff&currStreakLabel=20C20E&sideLabels=fff&dates=aaa" 
-       alt="GitHub Streak" style="border-radius: 10px; width: 100%;" />
-</div>
-
-</div>
-
-<!-- Top Languages -->
-<div style="background: rgba(32, 194, 14, 0.05); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2); margin: 30px auto; max-width: 800px;">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/code.png" />
-    Most Used Languages
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=fff&langs_count=8" 
-       alt="Top Languages" style="border-radius: 10px; width: 100%;" />
-</div>
-
-<!-- Trophy -->
-<div style="background: rgba(32, 194, 14, 0.05); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2); margin: 30px auto; max-width: 800px;">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/trophy.png" />
-    GitHub Achievements
-  </h3>
-  <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Badhon-00&theme=darkhub&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" 
-         alt="GitHub Trophies" />
-  </div>
-</div>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center" style="margin: 40px 0;">
-
-<div style="background: rgba(32, 194, 14, 0.05); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2);">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 20px;">
-    <img src="https://img.icons8.com/color/24/20C20E/activity.png" />
-    Coding Activity
-  </h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=FFFFFF&area=true&area_color=20C20E&custom_title=Badhon's+Contribution+Activity" 
-       alt="Activity Graph" style="border-radius: 10px; max-width: 900px; width: 100%;" />
-</div>
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
@@ -374,7 +307,7 @@
 <!-- Goal 1 -->
 <div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, #20C20E, #1a8c0c);"></div>
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
+   <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
     <div style="background: #20C20E; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
       <img src="https://img.icons8.com/color/24/ffffff/code.png" />
     </div>
@@ -453,7 +386,7 @@
 <!-- Last Updated -->
 <div style="text-align: center;">
   <div style="font-size: 18px; color: #20C20E; font-weight: bold; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/clock--v1.png" style="vertical-align: middle; margin-right: 8px;" />
+
     Last Updated
   </div>
   <div style="color: #fff; font-family: 'Fira Code', monospace;" id="last-updated">
