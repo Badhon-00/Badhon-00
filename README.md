@@ -13,6 +13,12 @@
   </div>
 </div>
 
+## 👋 Introduction
+
+**Assalamu Alaikum!** I'm Badhon Rohman Shanto, a passionate Muslim developer from Bangladesh. I specialize in building modern web applications with a focus on clean code and user-friendly interfaces. As a developer, I believe in continuous learning and strive to contribute to the tech community while staying true to my Islamic values.
+
+---
+
 ## 🌟 Profile Overview
 
 <div align="center">
@@ -34,27 +40,28 @@
     <i>"Striving to become a better developer and Muslim every day"</i>
   </p>
 
-  <!-- Social Links -->
+  ## 🌐 Connect With Me
+  
   <div style="margin: 20px 0;">
-    <a href="https://www.facebook.com/badhon.exist" target="_blank" style="margin: 0 10px;">
+    <a href="https://www.facebook.com/badhon.exist" target="_blank" style="margin: 0 10px;" title="Facebook">
       <img src="https://img.icons8.com/fluent/48/20C20E/facebook-new.png" alt="Facebook" width="40"/>
     </a>
-    <a href="https://www.instagram.com/scyl4_sm0k3/#" target="_blank" style="margin: 0 10px;">
+    <a href="https://www.instagram.com/scyl4_sm0k3" target="_blank" style="margin: 0 10px;" title="Instagram">
       <img src="https://img.icons8.com/fluent/48/20C20E/instagram-new.png" alt="Instagram" width="40"/>
     </a>
-    <a href="https://replit.com/@badhonrohman946" target="_blank" style="margin: 0 10px;">
+    <a href="https://replit.com/@badhonrohman946" target="_blank" style="margin: 0 10px;" title="Replit">
       <img src="https://img.icons8.com/color/48/20C20E/replit.png" alt="Replit" width="40"/>
     </a>
-    <a href="mailto:smokeyyybadhon1@gmail.com" style="margin: 0 10px;">
+    <a href="mailto:smokeyyybadhon1@gmail.com" style="margin: 0 10px;" title="Email">
       <img src="https://img.icons8.com/color/48/20C20E/gmail.png" alt="Email" width="40"/>
     </a>
-    <a href="https://wa.me/8801533048946" target="_blank" style="margin: 0 10px;">
+    <a href="https://wa.me/8801533048946" target="_blank" style="margin: 0 10px;" title="WhatsApp">
       <img src="https://img.icons8.com/color/48/20C20E/whatsapp.png" alt="WhatsApp" width="40"/>
     </a>
-    <a href="https://t.me/badhon_6t9_x" target="_blank" style="margin: 0 10px;">
+    <a href="https://t.me/badhon_6t9_x" target="_blank" style="margin: 0 10px;" title="Telegram">
       <img src="https://img.icons8.com/color/48/20C20E/telegram-app.png" alt="Telegram" width="40"/>
     </a>
-    <a href="https://github.com/Badhon-00" target="_blank" style="margin: 0 10px;">
+    <a href="https://github.com/Badhon-00" target="_blank" style="margin: 0 10px;" title="GitHub">
       <img src="https://img.icons8.com/color/48/20C20E/github.png" alt="GitHub" width="40"/>
     </a>
   </div>
@@ -77,25 +84,43 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E" alt="Top Languages" width="48%"/>
+  
+  <!-- Fixed GitHub Stats with correct username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  
+  <!-- Fixed Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E&hide=html,css,scss&langs_count=8" alt="Top Languages" width="48%"/>
   
   <br/><br/>
   
+  <!-- Fixed GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon-00&theme=dark&border=20C20E&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" alt="GitHub Streak" width="100%"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E" alt="GitHub Activity Graph" width="100%"/>
+  <!-- Fixed Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
-<h4 align="center">Visitor's Count 👀</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Badhon-00/count.svg" />
-</p>
-<p align="center">
-  <img src="https://count.getloli.com/get/@Badhon-00?theme=moebooru" />
-</p>
+## 👀 Visitor Count
+
+<div align="center">
+  
+  <h4>📈 Total Visitors</h4>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Badhon-00&color=20C20E&style=for-the-badge" alt="Profile Views" />
+  </p>
+  
+  <h4>🎯 Profile Hits</h4>
+  <p>
+    <img src="https://count.getloli.com/get/@Badhon-00?theme=moebooru" alt="Visitor Counter" />
+  </p>
+  
+  <h4>🌐 Real-time Counter</h4>
+  <p>
+    <img src="https://profile-counter.glitch.me/Badhon-00/count.svg" alt="Real-time Counter" />
+  </p>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -151,10 +176,12 @@ Feel free to reach out for collaboration, questions, or just to say Assalamu Ala
 
 <div align="center">
   <p>
-    <a href="mailto:smokeyyybadhon1@gmail.com">📧 Email</a> •
-    <a href="https://www.facebook.com/badhon.exist">📘 Facebook</a> •
-    <a href="https://wa.me/8801533048946">💬 WhatsApp</a> •
-    <a href="https://t.me/badhon_6t9_x">📱 Telegram</a>
+    📧 <a href="mailto:smokeyyybadhon1@gmail.com">Email</a> •
+    📘 <a href="https://www.facebook.com/badhon.exist">Facebook</a> •
+    💬 <a href="https://wa.me/8801533048946">WhatsApp</a> •
+    📱 <a href="https://t.me/badhon_6t9_x">Telegram</a> •
+    💻 <a href="https://github.com/Badhon-00">GitHub</a> •
+    🚀 <a href="https://replit.com/@badhonrohman946">Replit</a>
   </p>
   
   <p>Made with ❤️ and ☕ by Badhon Rohman Shanto</p>
@@ -205,5 +232,11 @@ Feel free to reach out for collaboration, questions, or just to say Assalamu Ala
   
   a:hover {
     animation: pulse 0.5s;
+    opacity: 0.8;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
   }
 </style>
