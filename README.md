@@ -191,7 +191,8 @@
     Thank you for visiting! May Allah bless you.
   </p>
 </div>
-
+  <img src="https://img.shields.io/github/followers/Badhon-00?style=social" alt="GitHub Followers" />
+</p>
 <!-- Islamic Reminder -->
 <div style="background: rgba(32, 194, 14, 0.05); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2);">
   <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; gap: 10px;">
