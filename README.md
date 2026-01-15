@@ -192,7 +192,7 @@
 
 ## 🌟 Featured Projects
 
-### 🥇 **Most Popular **Melissa Bot V3** (Latest) **
+### 🥇 **Most Popular Melissa Bot V3 (Latest) **
 [**Melissa Bot**](https://github.com/Badhon-00/MELISSA-BOT.git)  
 The original and most popular Messenger chatbot with advanced features and user-friendly interface.
 
