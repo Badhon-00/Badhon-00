@@ -64,9 +64,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
-<h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
-<p align="center">
+
   
 ## 🚀 Featured Projects
 
