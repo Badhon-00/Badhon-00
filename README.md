@@ -61,6 +61,35 @@
     <span style="color: #fff;">Muslim Developer</span>
   </div>
 </div>
+  ### Connect with me:
+  
+  <p>
+    
+  <a href="mailto:smokeyyybadhon1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    
+   <a href="https://www.facebook.com/badhon.exist">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+  >
+    <a href="https://wa.me/8801533048946">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    
+  <a href="https://t.me/badhon_6t9_x">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    
+   <a href="https://github.com/Badhon-00">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    
+
+   <a href="https://replit.com/@badhonrohman946">
+      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
+    </a>
+  </p>
 
 <!-- Quote -->
 <div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 20px; border-radius: 15px; 
@@ -133,35 +162,6 @@
 
 <div align="center">
   
-  ### Connect with me:
-  
-  <p>
-    
-  <a href="mailto:smokeyyybadhon1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    
-   <a href="https://www.facebook.com/badhon.exist">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-  >
-    <a href="https://wa.me/8801533048946">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-    
-  <a href="https://t.me/badhon_6t9_x">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    
-   <a href="https://github.com/Badhon-00">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    
-
-   <a href="https://replit.com/@badhonrohman946">
-      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
-    </a>
-  </p>
 
   ---
 
