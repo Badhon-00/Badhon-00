@@ -14,22 +14,6 @@
   </div>
 </div>
 
-<!-- Real-time Bangladesh Clock -->
-<div id="bangladesh-clock" style="margin: 25px auto; padding: 20px; background: rgba(32, 194, 14, 0.05); border-radius: 15px; border: 2px solid rgba(32, 194, 14, 0.3); max-width: 600px; backdrop-filter: blur(10px);">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="https://img.icons8.com/color/32/20C20E/clock--v1.png" />
-    <h3 style="margin: 0; color: #20C20E; font-family: 'Fira Code', monospace;">Bangladesh Time</h3>
-  </div>
-  <div style="text-align: center;">
-    <div style="font-size: 28px; color: #fff; font-family: 'Fira Code', monospace; font-weight: bold; letter-spacing: 2px;">
-      <span id="time">00:00:00</span>
-    </div>
-    <div style="font-size: 16px; color: #aaa; margin-top: 8px; font-family: 'Fira Code', monospace;">
-      <span id="date">Loading...</span> | Dhaka, Bangladesh
-    </div>
-  </div>
-</div>
-
 </div>
 
 ---
