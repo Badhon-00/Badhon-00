@@ -139,110 +139,19 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center" style="margin: 40px 0;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 900px; margin: 0 auto;">
-
-<!-- Facebook -->
-<a href="https://www.facebook.com/badhon.exist" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #1877F2, #0d5cb6); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(24, 119, 242, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(24, 119, 242, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/facebook.png" alt="Facebook" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">Facebook</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">badhon.exist</div>
-    </div>
-  </div>
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/scyl4_sm0k3" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #E4405F, #c13584); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(228, 64, 95, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(228, 64, 95, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/instagram-new.png" alt="Instagram" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">Instagram</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">scyl4_sm0k3</div>
-    </div>
-  </div>
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/Badhon-00" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #333, #000); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(51, 51, 51, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(51, 51, 51, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/github.png" alt="GitHub" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">GitHub</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">Badhon-00</div>
-    </div>
-  </div>
-</a>
-
-<!-- Email -->
-<a href="mailto:smokeyyybadhon1@gmail.com" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #EA4335, #D14836); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(234, 67, 53, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(234, 67, 53, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/gmail.png" alt="Email" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">Email</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">smokeyyybadhon1@gmail.com</div>
-    </div>
-  </div>
-</a>
-
-<!-- WhatsApp -->
-<a href="https://wa.me/8801533048946" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #25D366, #128C7E); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(37, 211, 102, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(37, 211, 102, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/whatsapp.png" alt="WhatsApp" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">WhatsApp</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">+880 1533-048946</div>
-    </div>
-  </div>
-</a>
-
-<!-- Telegram -->
-<a href="https://t.me/badhon_6t9_x" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #0088cc, #005f8b); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(0, 136, 204, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0, 136, 204, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/telegram-app.png" alt="Telegram" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">Telegram</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">@badhon_6t9_x</div>
-    </div>
-  </div>
-</a>
-
-<!-- Replit -->
-<a href="https://replit.com/@badhonrohman946" target="_blank" style="text-decoration: none;">
-  <div style="background: linear-gradient(135deg, #F26207, #d35400); padding: 20px; border-radius: 15px; 
-              display: flex; align-items: center; gap: 15px; transition: all 0.3s ease; cursor: pointer; border: 1px solid rgba(242, 98, 7, 0.3);"
-       onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(242, 98, 7, 0.3)';"
-       onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
-    <img src="https://img.icons8.com/color/40/ffffff/replit.png" alt="Replit" />
-    <div>
-      <div style="color: white; font-weight: bold; font-size: 18px;">Replit</div>
-      <div style="color: rgba(255,255,255,0.8); font-size: 12px;">badhonrohman946</div>
-    </div>
-  </div>
-</a>
-
+<div align="center">
+  <p>
+    📧 <a href="mailto:smokeyyybadhon1@gmail.com">Email</a> •
+    📘 <a href="https://www.facebook.com/badhon.exist">Facebook</a> •
+    💬 <a href="https://wa.me/8801533048946">WhatsApp</a> •
+    📱 <a href="https://t.me/badhon_6t9_x">Telegram</a> •
+    💻 <a href="https://github.com/Badhon-00">GitHub</a> •
+    🚀 <a href="https://replit.com/@badhonrohman946">Replit</a>
+  </p>
+  
+  <p>Made with ❤️ and ☕ by Badhon Rohman Shanto</p>
+  <p>🇧🇩 Proud Bangladeshi Developer 🇧🇩</p>
+</div>
 </div>
 
 </div>
@@ -415,4 +324,4 @@
   </p>
 </div>
 
-Fix graph analitics and top used language persentege in all repo and give full fixed code and fix contacts
+
