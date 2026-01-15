@@ -73,7 +73,6 @@
    <a href="https://www.facebook.com/badhon.exist">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
-  >
     <a href="https://wa.me/8801533048946">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
@@ -227,9 +226,7 @@
     <h4 style="color: #fff; margin: 0;">Master MERN Stack</h4>
   </div>
   <p style="color: #ccc; font-size: 14px; line-height: 1.6;">
-    Becoming proficient in MongoDB, Express, React, and Node.js to build scalable full-stack applications with modern architecture.
-  </p>
-</div>
+
 
 <!-- Goal 2 -->
 <div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
