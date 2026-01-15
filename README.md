@@ -181,97 +181,58 @@
 
   <img src="https://img.shields.io/github/followers/Badhon-00?style=social" alt="GitHub Followers" />
 </p>
-<!-- Islamic Reminder -->
-<div style="background: rgba(32, 194, 14, 0.05); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.2);">
-  <h3 style="color: #20C20E; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.icons8.com/color/24/20C20E/book.png" />
-    Daily Islamic Reminder
-  </h3>
-  <div id="islamic-quote" style="background: rgba(32, 194, 14, 0.1); padding: 20px; border-radius: 10px; margin: 20px 0; min-height: 180px; display: flex; flex-direction: column; justify-content: center;">
-    <p style="color: #ccc; font-style: italic; font-size: 16px; line-height: 1.6;">
-      "The best among you are those who learn the Quran and teach it."
-    </p>
-    <p style="color: #aaa; font-size: 14px; margin-top: 10px; text-align: right;">
-      - Prophet Muhammad (PBUH)
-    </p>
-  </div>
-  <div style="text-align: center;">
-    <button onclick="changeQuote()" style="background: #20C20E; color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-family: 'Fira Code', monospace; font-weight: bold; transition: all 0.3s ease;"
-            onmouseover="this.style.background='#1a8c0c'; this.style.transform='scale(1.05)';"
-            onmouseout="this.style.background='#20C20E'; this.style.transform='scale(1)';">
-      New Reminder
-    </button>
-  </div>
+# Melissa Bot 🤖
+
+<div align="center">
+  <img src="https://files.catbox.moe/njsprh.jpg" alt="Melissa Bot" width="100%">
+  <br>
+  <strong>Multi-platform chatbot ecosystem by Badhon</strong>
 </div>
 
+## 🌟 Featured Projects
+
+### 🥇 **Most Popular Repository**
+[**Melissa Bot**](https://github.com/Badhon-00/MELISSA-BOT.git)  
+The original and most popular Messenger chatbot with advanced features and user-friendly interface.
+
+### 🥈 **Second Most Popular**
+[**Melissa Bot V2 GIFT**](https://github.com/Badhon-00/MELISSA-BOT-V2-GIFT.git)  
+Enhanced version with additional features and capabilities.
+
+## 🚀 **Melissa Bot V3** (Latest)
+The next evolution in chatbot technology, building upon the success of previous versions with improved performance and expanded functionality.
+
+## 👨‍💻 About the Creator
+
+<div align="center">
+  <img src="https://files.catbox.moe/l0d6dc.png" alt="Creator Profile" width="60%">
 </div>
 
-</div>
+**Badhon** is a passionate developer specializing in:
+- 🤖 **Chatbot Development** (Messenger, WhatsApp, Telegram)
+- 🎨 **UI/UX Design**
+- 🌐 **Web Development**
+
+## 📱 Platforms Supported
+- **Facebook Messenger** (Primary platform)
+- **WhatsApp**
+- **Telegram**
+
+## 🛠️ Skills & Expertise
+- Chatbot Architecture & Development
+- User Interface Design
+- User Experience Optimization
+- Cross-platform Integration
+- Web Development
+
+## 📈 Project Evolution
+The Melissa Bot series represents continuous innovation in chatbot technology, with each version introducing new features and improvements based on user feedback and technological advancements.
 
 ---
 
-## 🎯 Current Goals & Focus Areas
-
-<div align="center" style="margin: 40px 0;">
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; max-width: 1000px; margin: 0 auto;">
-
-<!-- Goal 1 -->
-<div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, #20C20E, #1a8c0c);"></div>
-   <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-    <div style="background: #20C20E; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/24/ffffff/code.png" />
-    </div>
-    <h4 style="color: #fff; margin: 0;">Master MERN Stack</h4>
-  </div>
-  <p style="color: #ccc; font-size: 14px; line-height: 1.6;">
-
-
-<!-- Goal 2 -->
-<div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, #20C20E, #1a8c0c);"></div>
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-    <div style="background: #20C20E; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/24/ffffff/open-source.png" />
-    </div>
-    <h4 style="color: #fff; margin: 0;">Open Source Contribution</h4>
-  </div>
-  <p style="color: #ccc; font-size: 14px; line-height: 1.6;">
-    Actively participating in open-source projects, creating meaningful contributions to help the developer community grow.
-  </p>
+<div align="center">
+  <i>Passionate developer creating intelligent chatbot solutions</i>
 </div>
-
-<!-- Goal 3 -->
-<div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, #20C20E, #1a8c0c);"></div>
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-    <div style="background: #20C20E; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/24/ffffff/project.png" />
-    </div>
-    <h4 style="color: #fff; margin: 0;">Impactful Projects</h4>
-  </div>
-  <p style="color: #ccc; font-size: 14px; line-height: 1.6;">
-    Building applications that solve real-world problems, particularly those benefiting the Muslim community and promoting ethical technology.
-  </p>
-</div>
-
-<!-- Goal 4 -->
-<div style="background: linear-gradient(135deg, rgba(32, 194, 14, 0.1), rgba(26, 140, 12, 0.1)); padding: 25px; border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, #20C20E, #1a8c0c);"></div>
-  <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 15px;">
-    <div style="background: #20C20E; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">
-      <img src="https://img.icons8.com/color/24/ffffff/graduation-cap.png" />
-    </div>
-    <h4 style="color: #fff; margin: 0;">Continuous Learning</h4>
-  </div>
-  <p style="color: #ccc; font-size: 14px; line-height: 1.6;">
-    Exploring Next.js, TypeScript, cloud platforms, and DevOps to stay updated with modern development practices and tools.
-  </p>
-</div>
-
-</div>
-
 </div>
 
 ---
