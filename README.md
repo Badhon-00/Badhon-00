@@ -10,7 +10,7 @@
   <img src="https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" 
        width="100%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(32, 194, 14, 0.2);" />
   <div style="position: absolute; bottom: 10px; right: 10px; background: rgba(0,0,0,0.7); color: #20C20E; padding: 5px 10px; border-radius: 5px; font-family: 'Fira Code', monospace; font-size: 12px;">
-    Coding Adventure
+    
   </div>
 </div>
 
@@ -32,15 +32,11 @@
   <div style="position: absolute; top: -5px; right: -5px; background: linear-gradient(135deg, #20C20E, #1a8c0c); color: white; 
               border-radius: 50%; width: 40px; height: 40px; display: flex; align-items: center; 
               justify-content: center; font-weight: bold; border: 3px solid #0a0a0a; font-family: 'Fira Code', monospace;">
-    <span>BR</span>
-  </div>
-</div>
-
-<!-- Name with Animation -->
-<h1 align="center" style="margin: 25px 0 15px 0; background: linear-gradient(90deg, #20C20E, #fff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-  BADHON ROHMAN SHANTO
-</h1>
-
+ <h3 align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+    &nbsp;BADHON ROHMAN SHANTO&nbsp;
+    <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="25">
+  </h3>
 <!-- Title Badge -->
 <div style="background: linear-gradient(135deg, #20C20E, #1a8c0c); padding: 8px 25px; 
             border-radius: 25px; display: inline-block; margin-bottom: 20px; box-shadow: 0 4px 15px rgba(32, 194, 14, 0.3);">
