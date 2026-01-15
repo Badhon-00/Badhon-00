@@ -320,3 +320,5 @@
 </div>
 
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20C20E&height=100&section=footer&text=Thanks+For+Visiting!&fontSize=30&fontColor=ffffff" />
+</div>
