@@ -181,6 +181,7 @@
 
   <img src="https://img.shields.io/github/followers/Badhon-00?style=social" alt="GitHub Followers" />
 </p>
+
 # Melissa Bot 🤖
 
 <div align="center">
@@ -191,7 +192,7 @@
 
 ## 🌟 Featured Projects
 
-### 🥇 **Most Popular Repository**
+### 🥇 **Most Popular **Melissa Bot V3** (Latest) **
 [**Melissa Bot**](https://github.com/Badhon-00/MELISSA-BOT.git)  
 The original and most popular Messenger chatbot with advanced features and user-friendly interface.
 
@@ -199,8 +200,8 @@ The original and most popular Messenger chatbot with advanced features and user-
 [**Melissa Bot V2 GIFT**](https://github.com/Badhon-00/MELISSA-BOT-V2-GIFT.git)  
 Enhanced version with additional features and capabilities.
 
-## 🚀 **Melissa Bot V3** (Latest)
-The next evolution in chatbot technology, building upon the success of previous versions with improved performance and expanded functionality.
+
+#### The next evolution in chatbot technology, building upon the success of previous versions with improved performance and expanded functionality.
 
 ## 👨‍💻 About the Creator
 
