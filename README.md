@@ -6,8 +6,7 @@
   <div align="center">
     <img src="https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" width="100%" style="max-width: 600px;" />
   </div>
-  
-  <!-- Real-time Bangladesh Clock -->
+
   <div id="bangladesh-clock" style="margin: 20px 0; font-size: 18px; color: #20C20E; font-family: 'Fira Code', monospace;">
     <span id="time">Loading Bangladesh Time...</span> | <span id="date">Loading Date...</span>
   </div>
@@ -86,20 +85,24 @@
 <div align="center">
   
   <!-- Fixed GitHub Stats with correct username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  
-  <!-- Fixed Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E&hide=html,css,scss&langs_count=8" alt="Top Languages" width="48%"/>
-  
-  <br/><br/>
-  
-  <!-- Fixed GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon-00&theme=dark&border=20C20E&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" alt="GitHub Streak" width="100%"/>
+  <a href="https://github.com/Badhon-00">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&title_color=20C20E&icon_color=20C20E&text_color=ffffff" alt="Badhon's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&title_color=20C20E&text_color=ffffff&langs_count=8" alt="Badhon's Top Languages" />
+  </a>
   
   <br/><br/>
   
-  <!-- Fixed Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="GitHub Activity Graph" width="100%"/>
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/Badhon-00">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Badhon-00&theme=dark&background=0d1117&hide_border=true&border_radius=5&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&dates=20C20E" alt="Badhon's GitHub Streak" />
+  </a>
+  
+  <br/><br/>
+  
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/Badhon-00">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="Badhon's GitHub Activity Graph" width="100%" />
+  </a>
 </div>
 
 ## 👀 Visitor Count
@@ -163,80 +166,3 @@ while learning:
         ask_for_help()
         read_documentation()
     celebrate_small_wins()
-```
-
-## 🌟 Daily Motivation
-
-> "The best time to plant a tree was 20 years ago. The second best time is now."  
-> "Programming isn't about what you know; it's about what you can figure out."
-
-## 🤝 Let's Connect!
-
-Feel free to reach out for collaboration, questions, or just to say Assalamu Alaikum!
-
-<div align="center">
-  <p>
-    📧 <a href="mailto:smokeyyybadhon1@gmail.com">Email</a> •
-    📘 <a href="https://www.facebook.com/badhon.exist">Facebook</a> •
-    💬 <a href="https://wa.me/8801533048946">WhatsApp</a> •
-    📱 <a href="https://t.me/badhon_6t9_x">Telegram</a> •
-    💻 <a href="https://github.com/Badhon-00">GitHub</a> •
-    🚀 <a href="https://replit.com/@badhonrohman946">Replit</a>
-  </p>
-  
-  <p>Made with ❤️ and ☕ by Badhon Rohman Shanto</p>
-  <p>🇧🇩 Proud Bangladeshi Developer 🇧🇩</p>
-</div>
-
-<!-- JavaScript for Real-time Bangladesh Clock -->
-<script>
-  function updateBangladeshTime() {
-    const now = new Date();
-    const options = { 
-      timeZone: 'Asia/Dhaka',
-      hour12: true,
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit'
-    };
-    const dateOptions = {
-      timeZone: 'Asia/Dhaka',
-      weekday: 'long',
-      year: 'numeric',
-      month: 'long',
-      day: 'numeric'
-    };
-    
-    const time = now.toLocaleTimeString('en-US', options);
-    const date = now.toLocaleDateString('en-US', dateOptions);
-    
-    document.getElementById('time').textContent = `🕒 ${time} (BD Time)`;
-    document.getElementById('date').textContent = `📅 ${date}`;
-  }
-  
-  // Update time immediately and then every second
-  updateBangladeshTime();
-  setInterval(updateBangladeshTime, 1000);
-</script>
-
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  .pulse {
-    animation: pulse 2s infinite;
-  }
-  
-  a:hover {
-    animation: pulse 0.5s;
-    opacity: 0.8;
-  }
-  
-  img:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-</style>
