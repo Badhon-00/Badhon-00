@@ -135,25 +135,46 @@
 
 ---
 
-## 📊 GitHub Analytics
-
----
-
 <div align="center">
-  <p>
-    📧 <a href="mailto:smokeyyybadhon1@gmail.com">Email</a> •
-    📘 <a href="https://www.facebook.com/badhon.exist">Facebook</a> •
-    💬 <a href="https://wa.me/8801533048946">WhatsApp</a> •
-    📱 <a href="https://t.me/badhon_6t9_x">Telegram</a> •
-    💻 <a href="https://github.com/Badhon-00">GitHub</a> •
-    🚀 <a href="https://replit.com/@badhonrohman946">Replit</a>
-  </p>
   
-  <p>Made with ❤️ and ☕ by Badhon Rohman Shanto</p>
+  ### Connect with me:
+  
+  <p>
+    <!-- Email -->
+    <a href="mailto:smokeyyybadhon1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    
+   <a href="https://www.facebook.com/badhon.exist">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+    
+    <!-- WhatsApp -->
+    <a href="https://wa.me/8801533048946">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    
+    <!-- Telegram -->
+    <a href="https://t.me/badhon_6t9_x">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    
+    <!-- GitHub -->
+    <a href="https://github.com/Badhon-00">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    
+    <!-- Replit -->
+    <a href="https://replit.com/@badhonrohman946">
+      <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit">
+    </a>
+  </p>
+
+  ---
+
+  <p>Made with ❤️ and ☕ by <strong>Badhon Rohman Shanto</strong></p>
   <p>🇧🇩 Proud Bangladeshi Developer 🇧🇩</p>
 </div>
-</div>
-
 </div>
 
 ---
