@@ -20,6 +20,35 @@
 
 ---
 
+## 👀 Profile Views & Visitors (SYNCED)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Badhon-00&label=Profile%20Views&color=20C20E&style=for-the-badge" />
+</div>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Badhon-00?theme=rule34" />
+</p>
+
+---
+
+## 🏷️ Animated Badges
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge&logo=opensourceinitiative" />
+<img src="https://img.shields.io/badge/From-Bangladesh-darkgreen?style=for-the-badge&logo=google-maps" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Badhon-00?label=Followers&style=for-the-badge&color=20C20E" />
+<img src="https://img.shields.io/github/stars/Badhon-00?label=Total%20Stars&style=for-the-badge&color=20C20E" />
+
+</div>
+
+---
+
 ## 🛠️ Technical Skills
 
 <div align="center">
@@ -31,19 +60,18 @@
 
 ---
 
-## 📊 GitHub Analytic
+## 📊 GitHub Analytics (Auto Synced)
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
+
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&text_color=ffffff" />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
 <img height="180em"
 src="https://streak-stats.demolab.com?user=Badhon-00&theme=dark&hide_border=true&background=0d1117&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E&dates=ffffff" />
 
@@ -56,32 +84,39 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&bg
 
 ---
 
-## 👀 Visitor Count
+## 📌 Pinned Repositories (Auto Cards)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Badhon-00&color=20C20E&style=for-the-badge"/>
+
+<a href="https://github.com/Badhon-00/MELISSA-BOT-V3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhon-00&repo=MELISSA-BOT-V3&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
+</a>
+
+<a href="https://github.com/Badhon-00/BADHON-API-V1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Badhon-00&repo=BADHON-API-V1&theme=dark&hide_border=true&bg_color=0d1117&title_color=20C20E&icon_color=20C20E&text_color=ffffff" />
+</a>
+
 </div>
-<h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://count.getloli.com/get/@Badhon-00-github-readme?theme=rule34" /></p>
-<p align="center">
+
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 MELISSA-BOT-V3  
-🔹 JavaScript • Node.js • NLP  
+🔹 JavaScript • Node.js • Messenger Bot  
 🔹 Islamic Guidance + Programming Help  
 
 ### 🌐 BADHON API V1  
 🔹 Node.js • Express • MongoDB  
+🔹 REST API & Backend Services  
 
 ---
 
-## 📈 GitHub Contributions
+## 📈 Coding Philosophy
 
 ```python
 while learning:
     code()
     debug()
-    learn()
-    celebrate_small_wins()
+    improve()
+    trust_allah()
