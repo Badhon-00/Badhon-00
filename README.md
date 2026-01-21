@@ -182,6 +182,54 @@
   <img src="https://img.shields.io/github/followers/Badhon-00?style=social" alt="GitHub Followers" />
 </p>
 
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Badhon-00&show_icons=true&theme=dark&count_private=true&border_color=20C20E&bg_color=0D1117&title_color=20C20E&icon_color=20C20E" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badhon-00&layout=compact&theme=dark&border_color=20C20E&bg_color=0D1117&title_color=20C20E&langs_count=8" alt="Top Languages" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Badhon-00&theme=dark&border=20C20E&background=0D1117&stroke=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&currStreakLabel=20C20E&sideLabels=20C20E" alt="GitHub Streak" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+## 📈 Contribution Metrics
+
+<div align="center">
+  
+  ```javascript
+  const developerMetrics = {
+    "total_projects": 15,
+    "open_source_contributions": 8,
+    "technologies_mastered": 12,
+    "lines_of_code_written": "100k+",
+    "years_of_experience": 2,
+    "current_focus": ["Full Stack Development", "AI/ML", "DevOps"],
+    "learning_now": ["React Native", "Docker", "AWS"]
+  };
+  ```
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Badhon-00&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+</div>
+f
+
 # Melissa Bot 🤖
 
 <div align="center">
