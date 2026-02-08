@@ -206,6 +206,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Badhon-00/Badhon-00.git/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
 ## 📈 Contribution Metrics
 
 <div align="center">
