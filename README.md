@@ -207,7 +207,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Badhon-00/Badhon-00.git/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://githubcom/Badhon-00/Badhon-00.git/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ## 📈 Contribution Metrics
