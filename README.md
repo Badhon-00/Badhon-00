@@ -210,22 +210,7 @@
   <img src="https://raw.githubusercontent.com/Badhon-00/Badhon-00/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-## 📈 Contribution Metrics
 
-<div align="center">
-  
-  ```javascript
-  const developerMetrics = {
-    "total_projects": 15,
-    "open_source_contributions": 8,
-    "technologies_mastered": 12,
-    "lines_of_code_written": "100k+",
-    "years_of_experience": 2,
-    "current_focus": ["Full Stack Development", "AI/ML", "DevOps"],
-    "learning_now": ["React Native", "Docker", "AWS"]
-  };
-  ```
-</div>
 
 ## 🏆 GitHub Trophies
 
