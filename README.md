@@ -206,18 +206,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badhon-00&theme=react-dark&bg_color=0d1117&hide_border=true&color=20C20E&line=20C20E&point=20C20E&area=true&area_color=20C20E" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Badhon-00/Badhon-00/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Badhon-00&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
 </div>
-f
+
 
 # Melissa Bot 🤖
 
